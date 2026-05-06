@@ -68,26 +68,6 @@ src/main/java/com/mustafakahvci/githubactivity
 https://api.github.com/users/{username}/events
 ```
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/github-user-activity.git
-```
-
-Move into the project directory:
-
-```bash
-cd github-user-activity
-```
-
-Install dependencies and build the project:
-
-```bash
-mvn clean install
-```
-
 ## Example Output
 
 ```text
